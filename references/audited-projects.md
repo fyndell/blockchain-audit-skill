@@ -258,6 +258,7 @@ Do NOT include in clean-record assessments:
 | Poly Network | Private key/logic (2021) | $611M | Multiple |
 | THORChain | Multiple incidents | $8M+ | Halborn |
 | Gnosis Pay | Smart contract exploit (2026-06-01) | Unknown | Multiple |
+| Humanity | Smart contract exploit (2026-06-08) | $30.0M | Multiple |
 | Yearn Finance | Strategy exploit (2023) | $11M | Multiple |
 
 > 🔑 Key lesson: Even Tier 1 auditors cannot guarantee zero exploits. Scope, timing, and coverage all matter.
